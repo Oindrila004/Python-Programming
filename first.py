@@ -1,1 +1,5 @@
+print("Oindrila is my name")
+print("My age is 20")
 print("Hello World!!")
+print(23)
+print(29+10)
